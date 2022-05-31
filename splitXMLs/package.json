@@ -1,0 +1,16 @@
+{
+  "name": "week4-mini-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "split-file": "^2.3.0",
+    "xml2js": "^0.4.23"
+  }
+}
